@@ -1,7 +1,7 @@
 ### Hi there 👋, Name is Nnamdi Clement
 ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Skills: React / Tailwind / UI Design / SASS
+Skills: React / Tailwind / UI Design / SASS / Chakra UI
 
 - Looking to work on Amazing projects
 
