@@ -40,11 +40,11 @@ I am Nnamdi Clement Azubuike, a **FrontEnd Web Developer** (particularly **React
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/iamclement1)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/clementnnamdi/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2347034947199)
-<!-- [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]( -->
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:iamnnamdiclement@gmail.com)
 [![linked-in](https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_iamclement_)
 [![hashnode](https://img.shields.io/badge/hashnode-111827?style=for-the-badge&logo=hashnode&logoColor=blue)](https://hashnode.com/@iamclement)
 <!-- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farvyy/) -->
+<!-- [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]( -->
 
 
 
