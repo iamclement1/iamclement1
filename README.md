@@ -6,12 +6,12 @@ I am Nnamdi Azubuike, a **FrontEnd Engineer** (particularly **React Js**), with 
 
 ### Languages
 
-<!-- 
-![php](https://img.shields.io/badge/php-3178C6?style=for-the-badge&logo=php&logoColor=white) -->
+
+![php](https://img.shields.io/badge/php-3178C6?style=for-the-badge&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <!-- ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white) -->
 
-### Front-End Development
+### Technical Skills 
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,10 +19,19 @@ I am Nnamdi Azubuike, a **FrontEnd Engineer** (particularly **React Js**), with 
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Blog & Technical Writing ✍️
+[![Hasnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://iamclement.hashnode.dev/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iamclement)
+
 
 ### Forum
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Reedit](https://aleen42.github.io/badges/src/reddit.svg)
 
 
 ### Design Tools
@@ -47,6 +56,11 @@ I am Nnamdi Azubuike, a **FrontEnd Engineer** (particularly **React Js**), with 
 [![hashnode](https://img.shields.io/badge/hashnode-111827?style=for-the-badge&logo=hashnode&logoColor=blue)](https://hashnode.com/@iamclement)
 <!-- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farvyy/) -->
 <!-- [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]( -->
+
+### Sound 🎶 
+
+![Apple Music](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
 
 
