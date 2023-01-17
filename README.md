@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-## 🚀 About Me
+<!-- ## 🚀 About Me -->
 
 I am Nnamdi Azubuike, a **FrontEnd Engineer** (particularly **React Js** and **Laravel**), with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
 
