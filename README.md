@@ -2,7 +2,7 @@
 
 <!-- ## 🚀 About Me -->
 
-I am Nnamdi Azubuike, a **FrontEnd Engineer** (particularly **React Js** and **Laravel**), with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
+I am Nnamdi Azubuike, a **Software Engineer** (particularly **React.js** and **Next.js**), with a foundational knowlegde of **PHP** (**Laravel**), and a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
 
 ### Languages
 
