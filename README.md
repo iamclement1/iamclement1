@@ -50,6 +50,7 @@ If you're interested in learning more about me or discussing project ideas, plea
 ![ubuntu](https://img.shields.io/badge/Ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=f28532)
 ![vs-code](https://img.shields.io/badge/VS_Code-gray?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ### Connect with me 
 
