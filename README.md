@@ -13,6 +13,7 @@ If you're interested in learning more about me or discussing project ideas, plea
 
 ![php](https://img.shields.io/badge/php-3178C6?style=for-the-badge&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue)
 <!-- ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white) -->
 
 ### Technical Skills 
