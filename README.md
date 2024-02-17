@@ -82,4 +82,4 @@ If you're interested in learning more about me or discussing project ideas, plea
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamclement1&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/iamclement1)  
+![Profile views](https://gpvc.arturio.dev/iamclement1)
