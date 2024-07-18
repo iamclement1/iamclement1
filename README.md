@@ -79,6 +79,6 @@ If you're interested in learning more about me or discussing project ideas, plea
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamclement1&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamclement1&layout=donut)](https://github.com/iamclement1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamclement1&layout=pie)](https://github.com/iamclement1/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/iamclement1)
