@@ -76,6 +76,7 @@ If you're interested in learning more about me or discussing project ideas, plea
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/iamclement1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='18'>](https://www.instagram.com/iamclement_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/_iamclement_) -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamclement1&show_icons=true&theme=radical)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamclement1&show_icons=true)  
 
