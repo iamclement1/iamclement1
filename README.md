@@ -81,4 +81,6 @@ If you're interested in learning more about me or discussing project ideas, plea
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamclement1&layout=pie)](https://github.com/iamclement1/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamclement1)](https://github.com/iamclement1/github-readme-stats)
+
 ![Profile views](https://gpvc.arturio.dev/iamclement1)
