@@ -84,4 +84,4 @@ If you're interested in learning more about me or discussing project ideas, plea
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamclement&layout=compact)](https://github.com/iamclement1/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/iamclement1)
+![](https://komarev.com/ghpvc/?username=iamclement1&abbreviated=true)
